@@ -13,6 +13,12 @@
   <img src="assets/banner.png" alt="Haber Merkezi tanıtım görseli">
 </p>
 
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.dogansoft.habermerkezi">
+    <img src="assets/google-play.svg" height="64" alt="Google Play'den indirin">
+  </a>
+</p>
+
 > **Durum:** Google Play'de kapalı test aşamasında. Herkese açık sürüm yakında.
 
 ## Ekran görüntüleri
